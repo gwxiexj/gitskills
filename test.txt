@@ -9,7 +9,5 @@
 4. 用Eclipse建立一个java project，将生成的代码复制到项目的src下，如图
 
 	将axis2目录下（E:\axis2-1.5.6\lib）的所有jar 引入项目
-
-5. 创建一个含有main方法的类进行测试
 5. 创建一个含有main方法的类进行测试
 
